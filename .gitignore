@@ -1,4 +1,4 @@
-./*
-!./README.md
-!./big.txt
-!./correct.clj
+/*
+!/README.md
+!/big.txt
+!/spelling/correction.clj
